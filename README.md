@@ -6,10 +6,11 @@ Project Description
 The project revolves around predicting the ratings of food recipes using a comprehensive dataset. I was tasked with exploring the dataset and developing models that can accurately forecast the ratings for each recipe. This project showcases the approach and methodologies used to achieve this goal.
 
 Dataset Overview
-The dataset is divided into two main files:
+The dataset is divided into three main files:
 
 train.csv: The training set, including the target variable 'rating' and accompanying feature attributes.
 test.csv: The test set, containing similar feature attributes but without the target variable 'rating', which is to be predicted.
+sample_submission.csv: A sample submission file provided in the correct format for competition submissions.
 
 Columns Description
 RecipeNumber: Placement of the recipe on the top 100 recipes list
